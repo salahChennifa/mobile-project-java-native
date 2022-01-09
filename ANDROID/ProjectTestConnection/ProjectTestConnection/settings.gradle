@@ -1,0 +1,3 @@
+include ':calendarPart'
+include ':app'
+rootProject.name = "Project Test Connection"

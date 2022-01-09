@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright 2019 LinkedIn Corporation -->
+<!-- All Rights Reserved. -->
+<!-- -->
+<!-- Licensed under the BSD 2-Clause License (the "License").  See License in the project root -->
+<!-- for license information. -->
+<resources>
+    <string name="previous_day">Previous Day</string>
+    <string name="next_day">Next Day</string>
+    <string name="add_event">Add Seance</string>
+    <string name="edit_event">Information Seance</string>
+    <string name="scroll_to">Scroll To…</string>
+    <string name="edit_event_title">Name of Client</string>
+    <string name="edit_event_location">Location</string>
+    <string name="edit_event_date">Date</string>
+    <string name="edit_event_start_time">Start Time</string>
+    <string name="edit_event_end_time">End Time</string>
+    <string name="edit_event_color">Color</string>
+    <string name="make_event">Make Present</string>
+    <string name="edit_event_delete">Delete</string>
+    <string name="scroll_target_time">Time…</string>
+    <string name="scroll_target_first_event_top">First Event Top</string>
+    <string name="scroll_target_first_event_bottom">First Event Bottom</string>
+    <string name="scroll_target_last_event_top">Last Event Top</string>
+    <string name="scroll_target_last_event_bottom">Last Event Bottom</string>
+    <string name="app_name">Project Test Connection</string>
+    <string name="title_activity_admin_side">AdminSide</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

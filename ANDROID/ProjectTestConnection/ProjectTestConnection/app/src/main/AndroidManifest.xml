@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projecttestconnection">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_horse_head_with_messy_mane_side_view"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProjectTestConnection">
+        <activity android:name=".CalendarAdminMonitor"></activity>
+        <activity android:name=".ListerMonitor" />
+        <activity android:name=".CalenderAdminClient" />
+        <activity android:name=".AjouterClient" />
+        <activity android:name=".CalenderMinitorSide" />
+        <activity android:name=".CalenderClientSide" />
+        <activity android:name=".MonitorTasks" />
+        <activity android:name=".ListerSeancesCls" />
+        <activity android:name=".ClientPrClients" />
+        <activity android:name=".ListerClientTime" />
+        <activity android:name=".DetailCltSlr" />
+        <activity android:name=".ListClientsSl" />
+        <activity android:name=".ModiferSl" />
+        <activity android:name=".MonitorSide" />
+        <activity android:name=".ModifierClt" />
+        <activity android:name=".ClientSide" />
+        <activity android:name=".DetailClt" />
+        <activity android:name=".ListeClients" />
+        <activity android:name=".AdminSide" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
