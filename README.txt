@@ -1,4 +1,4 @@
- 	Ihsane LAALIOUI
+
    	Salah Eddine Chennifa
 ==========================================================================================================              
 		  calendarPart
@@ -25,7 +25,7 @@ expliquer dans le video dans directory Video
 
 		Realiser par 
 	==========================
-   Ihsane LAALIOUI
+
    Salah Eddine Chennifa
 
 ================================================================
